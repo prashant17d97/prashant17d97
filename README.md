@@ -58,7 +58,7 @@ A unified authentication solution supporting:
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantsinghsca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-android-dev/)
-[![Portfolio](https://www.prashantsingh.in/static/media/app_logo.a87c4ef89497c752f8730fbb6a55ea16.svg)](https://www.prashantsingh.in/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.prashantsingh.in/)
 
 
 ---
