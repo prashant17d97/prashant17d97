@@ -57,7 +57,8 @@ A unified authentication solution supporting:
 ## 📫 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantsinghsca@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashantsingh-dev/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-android-dev/)
+[![Portfolio](https://www.prashantsingh.in/static/media/app_logo.a87c4ef89497c752f8730fbb6a55ea16.svg)](https://www.prashantsingh.in/)
 
 
 ---
