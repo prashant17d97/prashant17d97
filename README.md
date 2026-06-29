@@ -1,72 +1,147 @@
-# Hi there! 👋
-
-I'm Prashant, a software engineer passionate about building seamless, secure, and scalable cross-platform solutions. My primary focus is on **Kotlin Multiplatform** development, enabling code sharing across iOS, Android, Web, and Desktop applications. 🚀
-
+<!-- ====== HEADER BANNER ====== -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Prashant%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engineering%20Manager%20%C2%B7%20Polyglot%20Builder%20%C2%B7%20KMP%20Enthusiast&descAlignY=58&descSize=18" />
+<!-- ====== TYPING TAGLINE ====== -->
+<a href="https://www.prashantsingh.in/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Building+seamless%2C+secure%2C+scalable+products;Kotlin+Multiplatform+across+iOS%2C+Android%2C+Web+%26+Desktop;Full-stack+with+Go+%2B+Next.js;Shipping+with+agentic%2C+multi-agent+workflows" alt="Typing SVG" />
+</a>
+<!-- ====== PROFILE BADGES ====== -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=prashant17d97&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/prashant17d97?tab=followers">
+    <img src="https://img.shields.io/github/followers/prashant17d97?label=Follow&style=social" alt="GitHub followers" />
+  </a>
+</p>
+</div>
 ---
-
+ 
+## 🧑‍💻 About Me
+ 
+```kotlin
+val prashant = Engineer(
+    role        = "Engineering Manager",
+    foundation  = "Kotlin Multiplatform",
+    nowBuilding = listOf("Go backends", "Next.js frontends", "AI-assisted tooling"),
+    mindset     = "Builder at heart — secure, scalable, cross-platform",
+)
+```
+ 
+- 🔭 I lead engineering by day and build products by night.
+- 🌱 Currently going deep on **Go** and **agentic, multi-agent development workflows**.
+- 💬 Ask me about **Kotlin Multiplatform**, **full-stack architecture**, or **shipping fast without breaking things**.
+- ⚡ Fun fact: I love sharing a single codebase across **iOS, Android, Web, and Desktop**.
+---
+ 
 ## 🔧 My Tech Toolbox
-
-### 🖥️ **Languages**
+ 
+<div align="center">
+### 🖥️ Languages
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%231575F9.svg?style=for-the-badge&logo=java&logoColor=white)
-![GO](https://img.shields.io/badge/GO-%230095D5.svg?style=for-the-badge&logo=java&logoColor=white)
-
-
-### 📚 **Frameworks & Libraries**
-- **Kotlin Multiplatform**: Shared codebase for iOS, Android, Web, and Desktop, KMP, Kobweb.
-- **Jetpack Compose**: Declarative UI for Android.
-- **SwiftUI**: Modern UI framework for iOS.
-- **Ktor & Spring Boot**: Backend development.
-
-### 🛠️ **Tools**
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%231575F9.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+ 
+### 📱 Mobile & Cross-Platform
+![Kotlin Multiplatform](https://img.shields.io/badge/Kotlin%20Multiplatform-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%230066CC.svg?style=for-the-badge&logo=swift&logoColor=white)
+ 
+### 🌐 Web & Backend
+![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/NestJS-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Ktor](https://img.shields.io/badge/Ktor-%237F52FF.svg?style=for-the-badge&logo=ktor&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
+ 
+### 🗄️ Data & Infra
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+ 
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+ 
+### 🧰 Tooling & AI
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-%233DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-%231575F9.svg?style=for-the-badge&logo=xcode&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### 🌐 **Cloud & Deployment**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
+![pnpm](https://img.shields.io/badge/pnpm-%23F69220.svg?style=for-the-badge&logo=pnpm&logoColor=white)
+![Biome](https://img.shields.io/badge/Biome-%2360A5FA.svg?style=for-the-badge&logo=biome&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-%23D97757.svg?style=for-the-badge&logo=anthropic&logoColor=white)
+ 
+</div>
 ---
-
-## 📊 My GitHub Stats
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant17d97&layout=compact&theme=radical)](https://github.com/prashant17d97)
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant17d97&show_icons=true&theme=radical)](https://github.com/prashant17d97)
-
+ 
+## 📊 GitHub Stats
+ 
+<div align="center">
+[![Prashant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashant17d97&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)](https://github.com/prashant17d97)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant17d97&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/prashant17d97)
+ 
+[![GitHub Streak](https://streak-stats.demolab.com?user=prashant17d97&theme=radical&hide_border=true)](https://github.com/prashant17d97)
+ 
+</div>
 ---
-
-## 🎯 Current Project
-
-### **Kotlin Multiplatform Sign-In Library**  
-A unified authentication solution supporting:
-- **Google, Facebook, GitHub, Apple, Twitter, LinkedIn**  
-- Compliant with **OAuth 2.0** and **OpenID Connect** standards.
-
-**Key Highlights:**
-- **Native Integrations**: Built for iOS and Android (desktop and web in progress).
-- **Secure**: Employing PKCE and token-based authentication.
-- **Extensible**: Easy to add new providers.
-
+ 
+## 🏆 GitHub Trophies
+ 
+<div align="center">
+[![trophy](https://github-profile-trophy.vercel.app/?username=prashant17d97&theme=radical&no-frame=true&row=1&column=7&margin-w=8)](https://github.com/prashant17d97)
+ 
+</div>
 ---
-
+ 
+## 🎯 What I'm Building
+ 
+<table>
+<tr>
+<td width="50%" valign="top">
+### 🔐 KMP Sign-In Library
+A unified, cross-platform authentication solution.
+ 
+- **Providers:** Google · Facebook · GitHub · Apple · Twitter · LinkedIn · Microsoft Entra
+- **Standards:** OAuth 2.0 · OpenID Connect
+- **Security:** PKCE + token-based auth
+- **Native:** iOS & Android shipped, Desktop & Web in progress
+- **Extensible:** Drop in a new provider with minimal code
+</td>
+<td width="50%" valign="top">
+### 🚀 Full-Stack Product Work
+Building production systems end to end.
+ 
+- **Backend:** Go (chi · sqlc · goose · River · Redis)
+- **Frontend:** Next.js (TanStack Query · Zustand · nuqs · Tailwind)
+- **Cross-platform:** Privacy-first KMP apps — zero-knowledge expense tracking & secure storage
+- **Workflow:** Multi-agent development with Claude Code & `CLAUDE.md` governance
+</td>
+</tr>
+</table>
+---
+ 
 ## 📫 Let's Connect!
-
+ 
+<div align="center">
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prashantsinghsca@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant-android-dev/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.prashantsingh.in/)
-
-
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.prashantsingh.in/)
+ 
+</div>
 ---
-
-## 📉 Activity Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant17d97&theme=redical)](https://github.com/prashant17d97)
-
+ 
+## 📈 Activity Graph
+ 
+[![Prashant's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=prashant17d97&theme=redical&hide_border=true)](https://github.com/prashant17d97)
+ 
 ---
-
-Thanks for visiting my profile! Let's build something amazing together! 🚀
+ 
+<div align="center">
+### 💡 Quote I Build By
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+ 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&text=Thanks%20for%20visiting!%20Let's%20build%20something%20amazing.&fontSize=18&fontColor=ffffff&fontAlignY=70" />
+</div>
