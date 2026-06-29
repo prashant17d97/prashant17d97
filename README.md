@@ -29,7 +29,6 @@
 ```kotlin
 val prashant = Engineer(
     role        = "Engineering Manager",
-    based       = "Hyderabad, India 🇮🇳",
     foundation  = "Kotlin Multiplatform",
     nowBuilding = listOf("Go backends", "Next.js frontends", "AI-assisted tooling"),
     mindset     = "Builder at heart — secure, scalable, cross-platform",
