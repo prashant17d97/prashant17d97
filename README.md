@@ -9,7 +9,7 @@
 
 <!-- Typing tagline -->
 <a href="https://www.prashantsingh.in/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=Building+seamless%2C+secure%2C+scalable+products;Kotlin+Multiplatform+%E2%86%92+iOS%2C+Android%2C+Web+%26+Desktop;Full-stack+with+Go+%2B+Next.js;Shipping+with+agentic%2C+multi-agent+workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=F75C7E&center=true&vCenter=true&width=650&lines=Building+software+that+solves+real+problems;Kotlin+Multiplatform+%7C+Android+%7C+iOS;Backend+and+web+development;Learning%2C+building%2C+and+sharing" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -35,10 +35,10 @@ val prashant = Engineer(
 )
 ```
 
-- 🔭 I lead engineering by day and build products by night.
-- 🌱 Currently going deep on **Go** and **agentic, multi-agent development workflows**.
-- 💬 Ask me about **Kotlin Multiplatform**, **full-stack architecture**, or **shipping fast without breaking things**.
-- ⚡ Fun fact: I love sharing a single codebase across **iOS, Android, Web, and Desktop**.
+- I’m an engineering manager who enjoys staying close to the code and building useful products.
+- Most of my work is around **Kotlin, Android, and Kotlin Multiplatform**.
+- I also work with **Go, Next.js, and backend systems**, and keep exploring better ways to build and ship software.
+- I enjoy solving practical engineering problems, learning from other developers, and turning ideas into working software.
 
 <!-- ============================================================= -->
 <!--   ANIMATED CONTRIBUTION SNAKE                                  -->
